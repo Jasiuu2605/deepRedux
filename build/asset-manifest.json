@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/deepRedux/static/css/main.726fb36d.css",
+    "main.js": "/deepRedux/static/js/main.0ef8077e.js",
+    "index.html": "/deepRedux/index.html",
+    "main.726fb36d.css.map": "/deepRedux/static/css/main.726fb36d.css.map",
+    "main.0ef8077e.js.map": "/deepRedux/static/js/main.0ef8077e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.726fb36d.css",
+    "static/js/main.0ef8077e.js"
+  ]
+}
